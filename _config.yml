@@ -33,6 +33,5 @@ social:
 
 google_analytics: ""
 
-
-layout: default
-comments: true
+disqus:
+    shortname: limeQueen
