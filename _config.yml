@@ -16,7 +16,6 @@ paginate: 5
 
 remote_theme : brianmaierjr/long-haul
 
-
 navigation:
   - title: Home
     url: /index.html
