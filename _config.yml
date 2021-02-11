@@ -1,8 +1,3 @@
----
-layout: default
-comments: true
----
-
 title: limeQueen
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
@@ -24,10 +19,10 @@ remote_theme : brianmaierjr/long-haul
 navigation:
   - title: Home
     url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  #- title: About
+    #url: /about
+  #- title: Contact
+    #url: /contact
 
 social:
   github: https://github.com/limeQueen
