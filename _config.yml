@@ -35,3 +35,4 @@ google_analytics: ""
 
 disqus:
     shortname: limeQueen
+    comments: true
